@@ -6,7 +6,13 @@ Kviz možete pokrenuti na sljedeći način:
 
 [[http://wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org][http://wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org]]
 
-Kviz treba napisati na sljedeći način. U prvom retku poglavlja napišite riječ QUIZ. U sljedeći red upišite naziv kviza i njegov opis. Zatim slijede tri prazna retka. Zatim napišite prvo pitanje nakon čega slijedi prazan red. Odgovori zatim dolaze odvojeni praznim redom. Sljedeće pitanje je od prvog odvojeno s dva prazna retka i tako dalje. Točan odgovor označava se uskličnikom na početku retka.
+Kviz treba napisati na sljedeći način. U prvom retku poglavlja napišite riječ QUIZ. U sljedeći red upišite naziv kviza i njegov opis. Zatim slijede tri prazna retka. Zatim napišite prvo pitanje nakon čega slijedi prazan red. Odgovori zatim dolaze odvojeni praznim redom. Sljedeće pitanje je od prvog odvojeno s dva prazna retka i tako dalje. Točan odgovor označava se uskličnikom na početku retka:
+
+https://raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org
+
+Ovaj sustav za kvizove koristi "org" oznake:
+
+https://orgmode.org/manual/index.html
 
 * Kviz o Heideggerovskoj terminologiji
   QUIZ 
