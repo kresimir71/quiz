@@ -4,7 +4,7 @@ Kviz o ovoj stranici Wikipedije:
 
 Kviz možete pokrenuti na sljedeći način:
 
-wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org
+[[wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org][wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org]]
 
 * Kviz o Heideggerovskoj terminologiji
   QUIZ 
