@@ -10,7 +10,7 @@ Kviz treba napisati na sljedeći način. U prvom retku poglavlja napišite rije�
 
 https://raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org
 
-Ovaj sustav za kvizove koristi "org" oznake:
+Ovaj sustav za kvizove koristi "org" format:
 
 https://orgmode.org/manual/index.html
 
