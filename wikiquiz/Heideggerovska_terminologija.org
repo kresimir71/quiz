@@ -90,11 +90,11 @@ U Heideggerovom gledištu, čovjek definira svoje vlastito biće svojim djelovan
 
 "Strategija bez taktike najsporiji je put do pobjede. Taktika bez strategije je buka prije poraza." - Sun Tzu
 
-* Kviz o ovoj stranici Wikipedije:
+** Kviz o ovoj stranici Wikipedije:
 
 [[https://hr.wikipedia.org/wiki/Heideggerovska_terminologija][https://hr.wikipedia.org/wiki/Heideggerovska_terminologija]]
 
-* Kviz možete pokrenuti na sljedeći način:
+** Kviz možete pokrenuti na sljedeći način:
 
 [[http://wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org][http://wikiquiz.w71.eu/?raw.githubusercontent.com/kresimir71/quiz/main/wikiquiz/Heideggerovska_terminologija.org]]
 
